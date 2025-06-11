@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/leavemanagement1/src/java/model/LeaveRequest.java</file>
+            <file>file:/C:/leavemanagement1/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/leavemanagement1/src/java/controller/LogoutServlet.java</file>
+            <file>file:/C:/leavemanagement1/web/createrequest.jsp</file>
+            <file>file:/C:/leavemanagement1/web/myrequests.jsp</file>
+            <file>file:/C:/leavemanagement1/src/java/model/Feature.java</file>
+            <file>file:/C:/leavemanagement1/src/java/controller/CreateRequestServlet.java</file>
+            <file>file:/C:/leavemanagement1/src/java/controller/DashboardServlet.java</file>
+            <file>file:/C:/leavemanagement1/src/java/controller/AgendaServlet.java</file>
+            <file>file:/C:/leavemanagement1/src/java/dal/UserDAO.java</file>
+            <file>file:/C:/leavemanagement1/src/java/controller/MyRequestsServlet.java</file>
+            <file>file:/C:/leavemanagement1/src/java/controller/ProcessRequestServlet.java</file>
+            <file>file:/C:/leavemanagement1/src/java/dal/LeaveRequestDAO.java</file>
+            <file>file:/C:/leavemanagement1/src/java/dal/DepartmentDAO.java</file>
+            <file>file:/C:/leavemanagement1/src/java/controller/TeamRequestsServlet.java</file>
+            <file>file:/C:/leavemanagement1/src/java/dal/DBContext.java</file>
+            <file>file:/C:/leavemanagement1/src/java/model/User.java</file>
+            <file>file:/C:/leavemanagement1/src/java/model/Department.java</file>
+            <file>file:/C:/leavemanagement1/src/java/controller/AuthenticationFilter.java</file>
+            <file>file:/C:/leavemanagement1/src/java/model/Role.java</file>
+            <file>file:/C:/leavemanagement1/web/login.jsp</file>
+            <file>file:/C:/leavemanagement1/web/dashboard.jsp</file>
+        </group>
+    </open-files>
+</project-private>
